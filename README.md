@@ -48,7 +48,7 @@ cargo test
 - [x] Edit Distance
 - [x] Longest common subsequence
 - [ ] Longest increasing subsequence
-- [ ] K-Means Clustering
+- [x] K-Means Clustering
 - [x] Coin Change
 - [x] Rod cutting
 - [x] Egg Dropping Puzzle
